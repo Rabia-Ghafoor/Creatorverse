@@ -42,11 +42,9 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented required features:
+The gif is uploaded in the pre-work submission.
 
-👉🏿 *Add your GIF or video link here*
-
-GIF created with **Kap** (macOS)
+GIF created with **Licecapt** 
 
 ## Notes
 
